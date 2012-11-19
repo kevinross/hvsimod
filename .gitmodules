@@ -1,0 +1,3 @@
+[submodule "hvsi"]
+	path = hvsi
+	url = git@github.com:r0ssar00/hvsi.git

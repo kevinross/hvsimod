@@ -1,0 +1,14 @@
+urlimport
+FormEncode
+Markdown
+Paste
+mysql-python
+SQLObject
+py-bcrypt
+simplejson
+werkzeug
+pytz
+flup
+
+[mysql]
+mysql-python

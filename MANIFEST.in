@@ -1,0 +1,6 @@
+include hvsi/views/*.tpl
+include hvsi/css/*.css
+include hvsi/js/*.js
+include hvsi/wmd/*.js
+include hvsi/css/images/*.png
+include hvsi/css/images/*.jpg
