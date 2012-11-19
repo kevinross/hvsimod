@@ -1,6 +1,6 @@
 --- 
 applications: 
-  hvsi:
+  .:
     infra: aws
     name: hvsi_devel
     mem: "128"
