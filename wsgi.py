@@ -1,1 +1,1 @@
-import hvsi.wsgi
+from hvsi.wsgi import *
