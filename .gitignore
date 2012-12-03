@@ -4,5 +4,5 @@
 .idea/*
 lib
 instanceconfig.py
-dist
-hvsi.egg-info
+dist/*
+hvsi.egg-info/*
