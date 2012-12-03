@@ -9,7 +9,7 @@ setup(  name='hvsi',
 	license='GPLv2',
 	packages=['hvsi'],
 	package_data = {
-		'hvsi': ['*.tpl','*.css','*.js','*.jpg','*.png']
+		'hvsi': ['requirements.txt', 'views/*.tpl','css/*.css','js/*.js','css/images/*.jpg','css/images/*.png']
 	},
 	exclude_package_data = {
 		'hvsi': ['Countdown.jpg', 'logo.png']
