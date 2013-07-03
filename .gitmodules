@@ -1,3 +1,6 @@
 [submodule "hvsi"]
 	path = hvsi
 	url = git@github.com:r0ssar00/hvsi.git
+[submodule "hvsi_android_app"]
+	path = hvsi_android_app
+	url = git@github.com:r0ssar00/hvsi_android_app.git
